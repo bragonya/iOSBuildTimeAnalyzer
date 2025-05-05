@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		51339D5B2DC8999300A23F70 /* iOSBuildTimeAnalyzer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = iOSBuildTimeAnalyzer; sourceTree = BUILT_PRODUCTS_DIR; };
+		51339D652DC899F400A23F70 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -46,6 +47,7 @@
 			children = (
 				51339D5D2DC8999300A23F70 /* iOSBuildTimeAnalyzer */,
 				51339D5C2DC8999300A23F70 /* Products */,
+				51339D652DC899F400A23F70 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
